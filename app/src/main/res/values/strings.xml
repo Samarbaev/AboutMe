@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ruslan Samarbaev</string>
+    <string name="bio">Hi, my name is Ruslan.
+        \n\nI like to create an application on Android OS.
+        \nMy app written on Kotlin
+        \nKotiln is modern programming language.
+        \nKotlin is Russian programming language.
+        \nI often dream that I will become android developer and I will work in big company
+        \n\nI live in Saint-Petersburg.
+        \nI study in the ITMO University.
+        \nI think that ITMO is the best.
+        \n\nI think that the main thing in life is self-development.
+        Self-development is not as a life stage, but as the meaning of life.
+
+    </string>
+    
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="done">Done</string>
+</resources>
